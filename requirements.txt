@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 boto3
 langchain
 pypdf
 streamlit
 faiss-cpu
+langchain-community
+python-dotenv
+=======
+boto3
+langchain
+pypdf
+streamlit
+faiss-cpu
+>>>>>>> 2bdfa60dc0a6009fccb093ac8779dd70326ee13b
